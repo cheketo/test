@@ -1,8 +1,10 @@
 //this is a PHP test
 <?php 
 
-function welcomeToMac(){
-	echo "This is what i'm talking about..."
+function welcomeToMac($Name){
+	echo $Name.", this is what i'm talking about...";
 }
+
+welcomeToMac();
 
 ?>
