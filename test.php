@@ -1,1 +1,1 @@
-<?php echo "This is a new PHP file"; ?>
+<?php echo "This is a edited PHP file"; ?>
